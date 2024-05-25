@@ -19,3 +19,9 @@ pip install torch torchvision torchaudio
 ```sh
 pip install tensorflow tensorflow-macos tensorflow-metal
 ```
+
+### Install JAX:
+
+```sh
+pip install jax-metal ml_dtypes==0.2.0 jax==0.4.26 jaxlib==0.4.26
+```
